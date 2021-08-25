@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
      - run: ls -R
-  list-directory1:
+  list-directory2:
     runs-on: ubuntu-latest
     steps:
      - run: ls -R
